@@ -1,0 +1,1 @@
+# jnethack-server.conf
